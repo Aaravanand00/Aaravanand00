@@ -18,15 +18,15 @@ Email Me 👉 ✉️ **aaravanand5749@gmail.com** For Collaboration/Project or A
 ![](https://nirzak-streak-stats.vercel.app/?user=Aaravanand00&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aaravanand00&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
