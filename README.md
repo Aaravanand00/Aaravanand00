@@ -23,6 +23,17 @@ Email Me 👉 ✉️ **aaravanand5749@gmail.com** For Collaboration/Project or A
 ![](https://nirzak-streak-stats.vercel.app/?user=Aaravanand00&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aaravanand00&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+## <!-- activity graph -->
+
+## 📈 Activity Graph
+
+![Aarav Anand's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aaravanand00&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true)
+
+
+
+
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
@@ -32,6 +43,9 @@ Email Me 👉 ✉️ **aaravanand5749@gmail.com** For Collaboration/Project or A
 
 <!-- Snake Game Repo View -->
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+<!-- Contribution Activity Graph -->
+<!-- Snake Contribution Animation -->
+<!-- <div align="center">
+  <img src="https://github.com/Aaravanand00/Aaravanand00/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div> -->
+
