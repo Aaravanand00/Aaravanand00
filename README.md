@@ -29,10 +29,6 @@ Email Me 👉 ✉️ **aaravanand5749@gmail.com** For Collaboration/Project or A
 
 ![Aarav Anand's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aaravanand00&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Aaravanand00/Aaravanand00/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation Dark" />
-</p>
-
 
 
 
