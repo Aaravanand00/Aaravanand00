@@ -23,6 +23,13 @@ Email Me 👉 ✉️ **aaravanand5749@gmail.com** For Collaboration/Project or A
 ![](https://nirzak-streak-stats.vercel.app/?user=Aaravanand00&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aaravanand00&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+<p align="left">
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ayush-Patel-56&show_icons=true&include_all_commits=true&rank_icon=github&theme=transparent&bg_color=00000000&text_color=f0f6fc&icon_color=58a6ff&cache_seconds=1800"
+    alt="Ayush's GitHub stats"
+  />
+</p>
+
 ## <!-- activity graph -->
 
 ## 📈 Activity Graph
@@ -34,7 +41,6 @@ Email Me 👉 ✉️ **aaravanand5749@gmail.com** For Collaboration/Project or A
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
