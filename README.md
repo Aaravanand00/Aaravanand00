@@ -25,8 +25,8 @@ Email Me 👉 ✉️ **aaravanand5749@gmail.com** For Collaboration/Project or A
 
 <p align="left">
   <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ayush-Patel-56&show_icons=true&include_all_commits=true&rank_icon=github&theme=transparent&bg_color=00000000&text_color=f0f6fc&icon_color=58a6ff&cache_seconds=1800"
-    alt="Ayush's GitHub stats"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Aaravanand00&show_icons=true&include_all_commits=true&rank_icon=github&theme=transparent&bg_color=00000000&text_color=f0f6fc&icon_color=58a6ff&cache_seconds=1800"
+    alt="Aarav's GitHub stats"
   />
 </p>
 
